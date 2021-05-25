@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zuned" target="blank"><img src="https://img.shields.io/twitter/follow/zuned?logo=twitter&style=for-the-badge" alt="zuned" /></a> </p>
 
+- 🔭 Readme file repogitory generator [link](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - 🔭 I’m currently working on [Fitness Club](https://kaan-fitness.web.app/)
 
 - 🌱 I’m currently learning **Redux**
