@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **react, html, css**
 
-- 📫 How to reach me **fgfgfg@gmail.com**
+- 📫 How to reach me **Juned0941@gmail.com**
 
 - 📄 Know about my experiences [https://kaan-fitness.web.app/](https://kaan-fitness.web.app/)
 
