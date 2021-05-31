@@ -1,5 +1,5 @@
 ### Hi there 👋,  
-![](https://image.shutterstock.com/image-vector/cover-design-annual-report-business-260nw-1649671507.jpg)
+![](./img/github.jpg)
 
 I am Juned Ahmed. I'm a passionate Web developer. Whenever I got the scope, I used to play with coding. Every of the time, I used to set myself to make a proper structure by coding. I enjoy developing applications using modern technologies. Proficient in HTML, CSS, JavaScript, Reactjs, Nodejs, Expressjs and MongoDB. Passionate about new technologies and problem solving.
 
