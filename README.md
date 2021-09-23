@@ -1,5 +1,4 @@
-### Hi there 👋,  
-![](./img/github.jpg)
+### Hi there 👋, 
 
 I am Juned Ahmed. I'm a passionate Web developer. Whenever I got the scope, I used to play with coding. Every of the time, I used to set myself to make a proper structure by coding. I enjoy developing applications using modern technologies. Proficient in HTML, CSS, JavaScript, Reactjs, Nodejs, Expressjs and MongoDB. Passionate about new technologies and problem solving.
 
